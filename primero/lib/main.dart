@@ -40,7 +40,7 @@ class MyHomePage extends StatelessWidget {
           color: Color.fromARGB(255, 109, 187, 255),
           child: const Center(
             child: Text("Salam Flutter!",
-                style: TextStyle(fontSize: 20, color: Colors.grey)),
+                style: TextStyle(fontSize: 14, color: Colors.black)),
           ),
         ),
       ),
